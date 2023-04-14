@@ -1,10 +1,6 @@
-pandas
-seaborn
-numpy
-vincenty
-catboost
-plotly-express
-scikit-learn
-xgboost
-tensorflow
-keras
+pandas==2.0.0
+seaborn==0.12.2
+xgboost==1.7.5
+vincenty==0.1.4
+catboost==1.1.1
+plotly-express==5.14.1
