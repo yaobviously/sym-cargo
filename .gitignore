@@ -3,3 +3,6 @@
 
 # checkpoints
 /.ipynb_checkpoints
+
+# pipfile
+Pipfile
